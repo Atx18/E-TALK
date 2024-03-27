@@ -1,4 +1,4 @@
-[![Logo](https://e-talk.vercel.app/images/logo.png)](https://e-talk.vercel.app)
+[![Logo](https://e-talk.vercel.app/images/logo.png)]
 
 # E-Talk
 
