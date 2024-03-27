@@ -4,9 +4,7 @@
 
 E-Talk is a basic chat Application that is build using the MERN Stack stands for MongoDB, ExpressJS, ReactJS, NodeJS.
 
-## Live Website
 
-- [E-Talk](https://e-talk.vercel.app)
 
 ## Features
 
